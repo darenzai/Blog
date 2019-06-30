@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6e5d9a2b-3e91-4cb6-a40e-873e5cf6bae4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring依赖注入.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring依赖注入.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bean/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bean/Fly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bean/bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bean/bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationContext.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -44,12 +40,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
               <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-              <folding>
-                <element signature="e#98#99#0" expanded="true" />
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -98,8 +88,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="988" />
-    <option name="y" value="106" />
+    <option name="x" value="87" />
+    <option name="y" value="111" />
     <option name="width" value="1079" />
     <option name="height" value="1016" />
   </component>
@@ -133,8 +123,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,7 +158,8 @@
       <option name="presentableId" value="Default" />
       <updated>1561553509519</updated>
       <workItem from="1561553513196" duration="620000" />
-      <workItem from="1561596075405" duration="695000" />
+      <workItem from="1561596075405" duration="1379000" />
+      <workItem from="1561626428241" duration="113000" />
     </task>
     <task id="LOCAL-00001" summary="sss">
       <created>1561596574611</created>
@@ -181,13 +172,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1315000" />
+    <option name="totallyTimeSpent" value="2112000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="988" y="106" width="1079" height="1016" extended-state="0" />
+    <frame x="87" y="111" width="1079" height="1016" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2185297" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22557905" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -226,6 +217,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="sss" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Bean/bird.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -235,20 +240,6 @@
             <element signature="e#158#159#0" expanded="true" />
             <element signature="e#190#191#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

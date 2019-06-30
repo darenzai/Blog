@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
+
+    <bean name="list" class="Bean.Person">
+        <property name="list">
+            <list>
+                <value>小红</value>
+                <value>小胡</value>
+                <value>小兰</value>
+            </list>
+
+        </property>
+
+        <property name="set">
+            <set>
+                <value>小胡1</value>
+                <value>小胡1</value>
+                <value>小兰2</value>
+                <value>小兰2</value>
+            </set>
+
+
+        </property>
+
+
+        <property name="map">
+           <map>
+               <entry key="a" value="你好"/>
+               <entry key="b" value="hello"/>
+               <entry key="c" value="嘿"/>
+               <entry key="d" value="ss"/>
+
+           </map>
+
+
+
+        </property>
+
+
+    </bean>
+</beans>
